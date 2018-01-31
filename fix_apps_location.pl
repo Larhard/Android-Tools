@@ -28,6 +28,7 @@ my @skip_packages = (
     "com.google.android.apps.docs.editors.slides",
     "com.google.android.apps.maps",
     "com.google.android.apps.photos",
+    "com.google.android.apps.tachyon",
     "com.google.android.gm",
     "com.google.android.gms",
     "com.google.android.googlequicksearchbox",
@@ -58,7 +59,9 @@ my @internal_packages = (
     "com.touchtype.swiftkey",
     "com.trello",
     "com.wetpalm.ProfileSchedulerPlus",
+    "org.pocketworkstation.pckeyboard",
     "pl.mbank",
+    "pl.polkomtel.wificallingplus",
 );
 
 my @packages;
