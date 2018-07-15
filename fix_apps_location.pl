@@ -46,6 +46,7 @@ my @skip_packages = (
     "com.lge.sizechangable.weather",
     "com.lge.sizechangable.weather.platform",
     "com.lge.sizechangable.weather.theme.optimus",
+    "com.rsupport.rs.activity.lge.allinone",
 );
 
 my @internal_packages = (
@@ -62,6 +63,10 @@ my @internal_packages = (
     "org.pocketworkstation.pckeyboard",
     "pl.mbank",
     "pl.polkomtel.wificallingplus",
+    "com.google.android.keep",
+    "com.google.android.apps.walletnfcrel",
+    "com.bhkapps.shouter",
+    "de.dennis_kempf.webwidget",
 );
 
 my @packages;
